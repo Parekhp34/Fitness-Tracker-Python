@@ -37,3 +37,12 @@ It helps in tracking exercise routines, calories burned, and performance trends 
 4. Open the notebook:
 
    jupyter notebook Fitness.ipynb
+
+## 📊 Results
+
+<img width="600" height="400" alt="Average_Calories_Burned_by_Workout_Type" src="https://github.com/user-attachments/assets/da546368-4ec1-4f8d-9713-1a1517b4487b" />
+<img width="600" height="400" alt="Avg_Calories_Burned_by_Experience_Level" src="https://github.com/user-attachments/assets/ed4dbdf4-d28b-4c9d-904e-eb3aed792a48" />
+<img width="600" height="400" alt="Calories_Burned-VS-Session_Duration" src="https://github.com/user-attachments/assets/410e5e61-dc1f-4665-ad85-0da1492e9a86" />
+<img width="600" height="400" alt="Distribution_of_Calories_Burned_per_Hour" src="https://github.com/user-attachments/assets/3ea97bfd-a2f9-4f01-a08b-c37fe7ecce49" />
+<img width="600" height="600" alt="Total_Calories_Burned_by_Gender" src="https://github.com/user-attachments/assets/b3c78b34-7c38-4dfa-95ac-23d53f2bf12c" />
+
